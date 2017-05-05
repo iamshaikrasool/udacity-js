@@ -4,7 +4,7 @@
 
 `console.log("hiya friend!");`
 
-Prints: `"hiya friend!"`
+Prints: `hiya friend!`
 
 Congratulations! You performed the log action on the debugging console.
 
